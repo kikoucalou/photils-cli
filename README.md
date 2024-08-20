@@ -82,6 +82,8 @@ For example, a simple translation into German of 4 tags looks like this:
 
 *If you have done a translation of the available tags, please share it with us for the community. Thanks!*
 
+You can find French TAG Translation on "home" directory
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
